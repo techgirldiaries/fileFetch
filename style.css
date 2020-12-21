@@ -1,0 +1,42 @@
+/****** Main Styling ******/
+
+body {
+  font-size: 16px;
+  text-align: center;
+  color: darkslategray;
+  background-color: whitesmoke;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  padding: 0;
+  margin-top: 40px;
+}
+
+.footer {
+  margin-top: 60px;
+}
+
+a {
+  color: seagreen;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  position: relative;
+}
+
+input#button {
+  width: 230px;
+}
+
+.view {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  margin-top: 40px;
+  min-width: 400px;
+  position:relative;
+  border: 1px solid gray;
+}
